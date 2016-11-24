@@ -25,16 +25,11 @@ body {
   transform: scaleX(-1);
   filter: FlipH;
   -ms-filter: "FlipH";
+
 }
 
-.bg {
-  position: fixed;
-  top: 0;
-  left: 0;
+.bgsize{
 
-  /* Preserve aspet ratio */
-  min-width: 100%;
-  min-height: 100%;
 }
 
 /* Common css */
