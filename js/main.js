@@ -199,7 +199,7 @@
   $('.gmap').mobileGmap({
     markers: [{
       position: 'center',
-      info: '121 S Pinckney St',
+      info: 'Špindlerův Mlýn, Benecko, Jánské Lázně',
       showInfo: true
     }]
   });
