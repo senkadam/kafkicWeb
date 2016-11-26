@@ -458,7 +458,8 @@ ul.menu-click {
 }
 
 .cross-portfolio .title h1 {
-  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
+  font-family: 'Raleway', Arial, sans-serif;
   font-weight: 700;
   font-size: 4em;
 }
