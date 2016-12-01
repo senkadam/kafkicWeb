@@ -912,6 +912,10 @@ body.modal-open .cross-portfolio {
     filter: blur(5px);
 }
 
+.padten {
+    padding: 15px;
+}
+
 .fullscreen .modal-dialog {
     margin: 0 0 0 0;
     width: 100%;
